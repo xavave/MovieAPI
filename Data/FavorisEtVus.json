@@ -1,0 +1,20 @@
+[
+  {
+    "UserId": 1,
+    "FilmId": 1,
+    "Vu": true,
+    "Favori": true
+  },
+  {
+    "UserId": 1,
+    "FilmId": 3,
+    "Vu": false,
+    "Favori": false
+  },
+  {
+    "UserId": 2,
+    "FilmId": 2,
+    "Vu": true,
+    "Favori": true
+  }
+]

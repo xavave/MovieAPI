@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Titre": "Inception",
+    "DateSortie": "2010-07-16",
+    "NoteGlobale": 8.8
+  },
+  {
+    "Id": 2,
+    "Titre": "The Matrix",
+    "DateSortie": "1999-03-31",
+    "NoteGlobale": 8.7
+  },
+  {
+    "Id": 3,
+    "Titre": "Interstellar",
+    "DateSortie": "2014-11-07",
+    "NoteGlobale": 8.6
+  }
+]
